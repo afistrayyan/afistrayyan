@@ -27,13 +27,28 @@
         </center>
     </nav>
     <hr />
-     <footer style="text-align: center;">
+
+    <header style="text-align: center;">
+        <img src="img/profile1.jfif" width="200" height="200" style="border-radius: 50%;"/>
+        <h1>Afist Rayyan Urfa</h1>
+        <p>INFORMATIKA UNSOED</p>
+    </header>
+
+    <hr />
+
+    <article style="text-align: center;">
+        <p>
+            Hallo Saya Afist Rayyan Urfa Mahasiswa Unsoed 2021
+        </p>
+    </article>
+    <hr>
+    <footer style="text-align: center;">
         <p>  Afist Rayyan Urfa.</p>
     </footer>
     <title> menambahkan background dengan warna </title>
     <style>
         body {
-            background-color:#F0F8FF
+            background-color:skyblue
         }
 </body>
 </html>
